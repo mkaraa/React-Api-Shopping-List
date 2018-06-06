@@ -1,0 +1,48 @@
+#container{
+  text-align: center;
+  border: 2px solid gray;
+  border-radius: 6px;
+  height: 60vh;
+  width: 25rem;
+  padding: 10px;
+  margin: 0px auto;
+}
+tbody{
+  color:green;
+}
+th{
+  color:darkslateblue;
+}
+.removeBtn{
+  width: 100px;
+  font-weight: bold;
+  color:darkred;
+  border-radius: 3px;
+  border: 1px solid darkgoldenrod;
+  padding: 5px;
+}
+.clearBtn{
+  width: 100px;
+  font-weight: bold;
+  color:darkblue;
+  border-radius: 3px;
+  border: 1px solid gray;
+  padding-bottom: 5px;
+}
+table{
+  margin: 0px auto;
+  border-collapse: collapse;
+}
+.myTh{
+  border-bottom: 2px solid gray;
+}
+.addBtn{
+  font-weight: bold;
+  color:darkred;
+  width: 100px;
+  border:2px solid darkcyan;
+  padding:5px;
+}
+h1{
+  border-bottom: 3px solid darkgoldenrod;
+}
